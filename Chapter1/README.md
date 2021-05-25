@@ -1,1 +1,1 @@
-This chapter is about big picture about Machine Learning.
+This chapter is about big picture and concept about Machine Learning.
